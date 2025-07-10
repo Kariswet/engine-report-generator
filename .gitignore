@@ -1,0 +1,3 @@
+source/venv*
+source/.env
+source/result/*.pptx
